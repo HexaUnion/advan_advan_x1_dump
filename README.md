@@ -1,0 +1,20 @@
+## ADVAN_X1-user 14 UP1A.231005.007 1751478751 release-keys
+- Manufacturer: advan
+- Platform: common
+- Codename: ADVAN_X1
+- Brand: ADVAN
+- Flavor: sys_mssi_64_ww_armv82-user
+- Release Version: 14
+- Kernel Version: 5.10.233
+- Id: UP1A.231005.007
+- Incremental: 1751475349
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: id
+- Screen Density: undefined
+- Fingerprint: ADVAN/ADVAN_X1/ADVAN_X1:14/UP1A.231005.007/1751475349:user/release-keys
+- OTA version: 
+- Branch: ADVAN_X1-user-14-UP1A.231005.007-1751478751-release-keys
+- Repo: advan_advan_x1_dump
